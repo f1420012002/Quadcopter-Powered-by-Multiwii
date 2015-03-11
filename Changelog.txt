@@ -1,0 +1,2 @@
+#define V_BATPIN A3 => A0
+//#define VBAT => #define VBAT

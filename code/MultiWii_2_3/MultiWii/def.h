@@ -320,7 +320,7 @@
   #define PCIR_PORT_BIT              (1<<2)
   #define RX_PC_INTERRUPT            PCINT2_vect
   #define RX_PCINT_PIN_PORT          PIND
-  #define V_BATPIN                   A3    // Analog PIN 3
+  #define V_BATPIN                   A0    // Analog PIN 3
   #define PSENSORPIN                 A2    // Analog PIN 2
   
   #if defined(A0_A1_PIN_HEX) || (NUMBER_MOTOR > 6)
